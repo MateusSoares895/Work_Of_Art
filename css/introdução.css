@@ -7,7 +7,6 @@
 html,
 body {
   height: 100%;
-  overflow: hidden;
 }
 
 .title {
@@ -20,7 +19,7 @@ p {
   text-align: justify;
   width: 550px;
   font-size: 20px;
-  margin-bottom: -90px;
+  margin-bottom: -100px;
   margin-left: 32vw;
 }
 
