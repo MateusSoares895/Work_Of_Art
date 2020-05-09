@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  height: 100%;
+}
+
+.title {
+  width: 1010px;
+  margin-left: calc(50vw - 505px);
+  margin-top: calc(50vh - 50px);
+  font-size: 90px;
+}
+
+p.one {
+  margin-top: 15vh;
+}
+a.anterior {
+  margin-left: 5px;
+  background-color: #fff;
+  color: #333;
+}
+a.proxima {
+  float: right;
+  margin-top: 20px;
+  margin-right: 5px;
+  background-color: #fff;
+  color: #333;
+}

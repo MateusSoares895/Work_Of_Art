@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  height: 100%;
+  overflow: hidden;
+}
+
+.title {
+  width: 700px;
+  margin-left: calc(50vw - 350px);
+  margin-top: calc(50vh - 35px);
+  font-size: 90px;
+}
+
+a {
+  float: right;
+  margin-top: 33vh;
+  margin-right: 5px;
+  background-color: #fff;
+  color: #333;
+}

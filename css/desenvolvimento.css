@@ -1,0 +1,94 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin-bottom: 40px;
+}
+
+h1.title {
+  width: 250px;
+  margin: auto;
+}
+
+article.desenvolvimento {
+  flex: 1;
+  width: 100vh;
+  margin: auto;
+}
+
+p {
+  text-align: justify;
+  width: 70;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+li {
+  text-align: justify;
+  width: 70;
+  font-size: 20px;
+}
+
+.imgcontainer {
+  flex: 1;
+  width: 100vh;
+  margin-left: 7em;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+figure.exception {
+  margin-left: 4em;
+}
+
+figure.biggest {
+  margin-left: -5em;
+}
+figure.medium {
+  margin-left: 1.7em;
+}
+
+figcaption {
+  font-size: 17px;
+  text-align: center;
+  display: block;
+  color: #000000d0;
+  margin-left: -200px;
+}
+
+p + p {
+  margin-top: 10px;
+}
+
+p.exception {
+  margin-top: 10px;
+}
+
+h2.exception {
+  width: 400px;
+}
+
+p.last {
+  margin-bottom: 20px;
+}
+
+h2 {
+  flex: 1;
+  width: 250px;
+  margin: auto;
+  margin-bottom: 20px;
+}
+
+a.anterior {
+  margin-left: 5px;
+  background-color: #fff;
+  color: #333;
+}
+a.proxima {
+  float: right;
+  margin-right: 5px;
+  background-color: #fff;
+  color: #333;
+}
